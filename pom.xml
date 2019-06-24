@@ -25,12 +25,12 @@
     <repository>
       <id>releases</id>
       <name>releases</name>
-      <url>https://art.lmru.tech/mvn-local-release-customer-delivery-system</url>
+      <url>https://art.lmru.tech/mvn-local-release-devops</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
       <name>napshots</name>
-      <url>https://art.lmru.tech/mvn-local-snapshots-customer-delivery-system</url>
+      <url>https://art.lmru.tech/mvn-local-snapshots-devops</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
